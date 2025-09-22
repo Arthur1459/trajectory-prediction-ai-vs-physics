@@ -2,6 +2,8 @@
 
 Arthur Oudeyer - September 21, 2025
 
+### [PDF Report](https://github.com/Arthur1459/trajectory-prediction-ai-vs-physics/blob/master/Research%20Project%20Report%20-%20Paper%20Airplane%20Trajectory%20Prediction%20using%20AI%20and%20Physical%20Models%20-%20TIPE.pdf) & [PDF Presentation](https://github.com/Arthur1459/trajectory-prediction-ai-vs-physics/blob/master/Presentation%20-%20Predicting%20Paper%20Airplane%20Trajectory%20using%20Physic%20and%20AI%20models%20-%20ENGLISH.pdf)
+
 ### Abstract
 
 This project is a one-year research in the context of CPGE TIPE between 2023 and 2024, comparing traditional physics-based models and modern AI techniques for predicting the trajectory of paper airplanes.
